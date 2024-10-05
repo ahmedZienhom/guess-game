@@ -1,0 +1,15 @@
+{
+    "guess_the_word": "خمن الكلمة",
+    "try": "محاولة",
+    "check_word": "تحقق من الكلمة",
+    "hint": "تلميح",
+    "congrats_you_win": "تهانينا، لقد فزت",
+    "you_lose": "لقد خسرت",
+    "key_colors": "ألوان المفاتيح",
+    "letter_is_right_and_in_place": "الحرف صحيح وفي مكانه",
+    "letter_is_right_but_not_in_place": "الحرف صحيح ولكن ليس في مكانه",
+    "letter_is_wrong_and_not_exists_in_word": "الحرف خاطئ ولا يوجد في الكلمة",
+    "disabled": "معطل",
+    "num_of_hints": "عدد التلميحات"
+  }
+  
